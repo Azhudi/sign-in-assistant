@@ -5,3 +5,5 @@ Sign-in-assistant - a Python package that will give you random registration data
 Creates a random euphonious nickname by merging vowel and consonant letters.
 Issues random email and a response to it based on the site api "post-shift.ru".
 Generates a random password from these characters.
+
+P. S. Do not judge strictly for mistakes, I am still a novice and not familiar with the language.
